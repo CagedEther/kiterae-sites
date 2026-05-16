@@ -1,0 +1,19 @@
+{
+  "brand": "Home Solar Advisor",
+  "tagline": "Your guide to smarter home solar decisions.",
+  "description": "An editorial resource for homeowners comparing solar quotes, financing, installers, and long-term energy plans.",
+  "url": "https://homesolaradvisor.com",
+  "logo": {
+    "src": "/media/home-solar-advisor-logo.png",
+    "alt": "Home Solar Advisor logo"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "How it works", "href": "/how-it-works" },
+    { "label": "About", "href": "/about" },
+    { "label": "Resources", "href": "/resources" }
+  ],
+  "footer": {
+    "note": "Practical solar guidance for homeowners who want clear answers before they sign."
+  }
+}
