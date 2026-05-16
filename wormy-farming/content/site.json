@@ -1,0 +1,20 @@
+{
+  "brand": "Wormy Farming",
+  "tagline": "Turn kitchen scraps into garden gold.",
+  "description": "Wormy Farming helps gardeners and households use vermicomposting to reduce food waste, improve soil, and build a cleaner composting routine.",
+  "url": "https://wormyfarming.com",
+  "logo": {
+    "src": "/media/wormy-farming-logo.png",
+    "alt": "Wormy Farming brand mark"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "How it works", "href": "/how-it-works" },
+    { "label": "About", "href": "/about" },
+    { "label": "Resources", "href": "/resources" },
+    { "label": "Blog", "href": "/blog" }
+  ],
+  "footer": {
+    "note": "Practical vermicomposting resources for gardeners, renters, and households that want less waste and better soil."
+  }
+}
