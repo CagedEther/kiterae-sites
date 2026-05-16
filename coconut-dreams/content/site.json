@@ -1,0 +1,19 @@
+{
+  "brand": "Coconut Dreams",
+  "tagline": "The purity of nature, perfected by science.",
+  "description": "Editorial skincare content about coconut oil for dry skin, with a focus on clean formulation, barrier support, and choosing products that avoid greasy tradeoffs.",
+  "url": "https://coconutdreams.com",
+  "logo": {
+    "src": "/media/coconut-dreams-logo.png",
+    "alt": "Coconut Dreams abstract mark"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "How it works", "href": "/how-it-works" },
+    { "label": "About", "href": "/about" },
+    { "label": "Resources", "href": "/resources" }
+  ],
+  "footer": {
+    "note": "Useful guidance for people weighing natural ingredients against clinical performance."
+  }
+}
