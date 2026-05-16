@@ -1,6 +1,7 @@
 # Editorial Notes
 
-- Source document contains an unsupported proof claim that vermicomposting can reduce waste by up to 30%; this was referenced cautiously in awareness content as a general waste-reduction benefit without asserting the statistic as fact.
-- Source includes irrelevant 'benefits of pumpkin seeds' keywords; these were omitted because they do not align with the vermicomposting topic and would weaken site coherence.
-- No verifiable customer counts, testimonials, or performance metrics were provided, so the copy avoids making outcome guarantees beyond grounded category claims.
-- The site is intentionally editorial and informational, but home page copy still carries a clear commercial CTA as requested.
+- The source document included unsupported market-size figures and projected growth rates. Those were used only in high-level framing and not stated as factual proof in the site copy.
+- The source document references clinical validation, before/after images, and testimonials as proof needs. Because no actual proof assets were supplied, the MDX body avoids those claims and the site should add substantiation before publishing any performance-led marketing.
+- The blog frontmatter uses the current date requested by the instructions: 2026-05-15.
+- The source contained a few copy errors and duplicated sections; the site content was deduplicated and corrected for readability.
+- SEO keyword data in the source had missing volumes and difficulty values. The content uses the topics and intent signals without inventing metrics.
