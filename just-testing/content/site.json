@@ -1,0 +1,19 @@
+{
+  "brand": "Just testing",
+  "tagline": "Vermicomposting resources for gardeners who want less waste and better soil.",
+  "description": "Editorial guidance on the benefits of worm farming, vermicomposting for gardening, and practical waste reduction at home.",
+  "url": "https://justtesting.example.com",
+  "logo": {
+    "src": "/media/just-testing-logo.png",
+    "alt": "Abstract brand mark for Just testing"
+  },
+  "navigation": [
+    { "label": "Home", "href": "/" },
+    { "label": "How it works", "href": "/how-it-works/" },
+    { "label": "About", "href": "/about/" },
+    { "label": "Resources", "href": "/resources/" }
+  ],
+  "footer": {
+    "note": "Built for gardeners, homesteaders, and urban households looking for a cleaner way to compost and improve soil."
+  }
+}
