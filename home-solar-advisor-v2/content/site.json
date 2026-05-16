@@ -1,0 +1,31 @@
+{
+  "brand": "Home Solar Advisor",
+  "tagline": "Expert guides for your solar journey",
+  "description": "A homeowner-first resource for understanding solar installation, comparing financing, and planning a better home energy system.",
+  "url": "https://homesolaradvisor.com",
+  "logo": {
+    "src": "/media/logo.svg",
+    "alt": "Home Solar Advisor"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "How it Works",
+      "href": "/how-it-works"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Resources",
+      "href": "/resources"
+    }
+  ],
+  "footer": {
+    "note": "Independent homeowner guidance for solar research, quote review, and long-term energy planning."
+  }
+}
