@@ -1,0 +1,35 @@
+{
+  "brand": "Techno Homesteading",
+  "tagline": "Harnessing technology for a self-sufficient future.",
+  "description": "Techno Homesteading is a resource for modern homesteaders who want practical guidance, smarter planning, and technology where it genuinely helps.",
+  "url": "https://technohomesteading.com",
+  "logo": {
+    "src": "/media/logo.svg",
+    "alt": "Techno Homesteading"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "How It Works",
+      "href": "/how-it-works"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Resources",
+      "href": "/resources"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    }
+  ],
+  "footer": {
+    "note": "Editorial guidance for people building resilient homes, gardens, and routines with the help of thoughtful technology."
+  }
+}
