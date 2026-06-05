@@ -1,11 +1,11 @@
 {
-  "brand": "Pageant Insider Agent",
-  "tagline": "Pageant prep guidance that feels like a friend helping you sort the next step.",
-  "description": "Pageant Insider Agent is a friendly prep resource for contestants who want clearer guidance, less overwhelm, and an AI mentor that can walk them through the process step by step.",
+  "brand": "Pageant Insider",
+  "tagline": "Inside stories and a mentor trained on thousands of contestants",
+  "description": "Pageant Insider shares inside stories and a friendly AI mentor trained on thousands of contestants, so pageant prep feels clearer and easier to move through.",
   "url": "https://pageantinsideragent.com",
   "logo": {
     "src": "/media/logo.svg",
-    "alt": "Pageant Insider Agent"
+    "alt": "Pageant Insider"
   },
   "navigation": [
     {
