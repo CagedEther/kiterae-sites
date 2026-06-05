@@ -1,0 +1,31 @@
+{
+  "brand": "Pageant Insider Agent",
+  "tagline": "Expert pageant preparation tips, coaching services, and a clearer path to the crown.",
+  "description": "Pageant Insider Agent is an editorial advice site for contestants who want structured pageant preparation, practical coaching guidance, and modern strategy without the noise or the price of elite one-to-one coaching.",
+  "url": "https://pageantinsideragent.com",
+  "logo": {
+    "src": "/media/logo.svg",
+    "alt": "Pageant Insider Agent"
+  },
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "How It Works",
+      "href": "/how-it-works"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Resources",
+      "href": "/resources"
+    }
+  ],
+  "footer": {
+    "note": "Built for contestants who want a structured, affordable alternative to scattered advice and high-cost private coaching."
+  }
+}
